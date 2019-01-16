@@ -1,2 +1,5 @@
 # Futures-Price-Prediction
-Trend marketplace Fall project for team 16
+
+1. Collect data
+2. Feature engineering
+3. Modelling
